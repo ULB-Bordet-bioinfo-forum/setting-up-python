@@ -1,0 +1,15 @@
+name: bioinfo-forum
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - matplotlib
+  - seaborn
+  - numpy
+  - pandas
+  - joblib
+  - jupyter
+  - conda-forge::scanpy
+  - python-igraph
+  - leidenalg
+  - conda-forge::muon
