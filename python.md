@@ -186,4 +186,30 @@ readme file.
 Download link: [docs.astral.sh/uv](https://docs.astral.sh/uv/)
 
 
+## IDE
 
+Although you can program via any standard text editor and a 
+console/terminal alone, most people would use an
+Integrated development environment (IDE) that aids their efforts.
+`R` programmers are quite spoiled in this regard: 
+it is almost universally agreed on by everyone to use `RStudio`. 
+Python doesn't have this luxury,
+so you will have to select your own IDE... or not. IDEs are helpful
+especially for beginners however, so we do recommend using one.
+
+For the purpose of our workshops, we will use programming environments
+provided by [Jupyter](https://jupyter.org/): 
+either Jupyter Notebook or Jupyter Lab, both of which are available
+on conda and would have already been installed if you followed our guide.
+These are not the most powerful IDEs out there, but they work quite well
+with programming notebooks and are sufficient for our needs.
+
+If you already use it, Microsoft's
+[Visual Studio Code](https://code.visualstudio.com/)
+is a rather comprehensive IDE that also works well with notebooks.
+Being a more complete IDE, it also has utilities such as autocompletion,
+integration with git/GitHub, even Copilot support, etc...
+We won't lead the workshop with VSCode, but you are more than welcomed
+to give it a try yourself; you mostly use it the same way as Jupyter's tools.
+If you like VSCode but hate Microsoft, try 
+[VSCodium](https://vscodium.com/) instead.
