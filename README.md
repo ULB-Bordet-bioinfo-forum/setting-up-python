@@ -7,7 +7,7 @@ For data, please use
 This is a fairly recent publicly available datset from 10X Genomics.
 Make sure to download all the **"Output and supplemental files"**
 and place them in a recognizable folder
-(such as `data/PBMC-10X', `pbmc`, `260318workshop`, ...).
+(such as `data/PBMC-10X/`, `pbmc/`, `260318workshop/`, ...).
 
 For the workshop, we will be using the clustering tutorial from
 [scanpy](https://scanpy.readthedocs.io/en/stable/tutorials/basics/clustering.html).
