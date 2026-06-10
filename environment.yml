@@ -12,4 +12,7 @@ dependencies:
   - conda-forge::scanpy
   - python-igraph
   - leidenalg
+  - scikit-image
   - conda-forge::muon
+  - loompy
+  - pooch
